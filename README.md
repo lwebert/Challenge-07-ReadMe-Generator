@@ -69,5 +69,5 @@ https://www.mozilla.org/en-US/MPL/2.0/
 
 ## Questions
 
--   GitHub username: lwebert
+-   GitHub username: [lwebert](https://github.com/lwebert).
 -   Reach me at [lauren@weberts.org](lauren@weberts.org) with additional questions.

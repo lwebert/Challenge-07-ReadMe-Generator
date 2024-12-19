@@ -24,8 +24,6 @@ function renderLicenseBadge(license) {
   }
 }
 
-// choices: ['Apache License 2.0', 'MIT License', 'Mozilla Public License 2.0', 'The Unlicense']
-
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
@@ -98,13 +96,10 @@ ${data.testInstruction}
 ${renderLicenseSection(data.license)}
 
 ## Questions
-- GitHub username: ${data.github}.
+- GitHub username: [${data.github}](https://github.com/${data.github}).
 - Reach me at [${data.email}](${data.email}) with additional questions.
 
 `;
 }
 
 export default generateMarkdown;
-// ${licenseBadge} \n
-// The application is covered under [${data.license}](${licenseLink}). \n
-// ${licenseLink}
