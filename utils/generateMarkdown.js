@@ -98,7 +98,7 @@ ${data.testInstruction}
 ${renderLicenseSection(data.license)}
 
 ## Questions
-- [GitHub](${data.github})
+- GitHub username: ${data.github}.
 - Reach me at [${data.email}](${data.email}) with additional questions.
 
 `;
