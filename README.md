@@ -62,6 +62,8 @@ Make local changes to push up.
 
 If the application is working correctly, the message "Successfully created professional README.md file for your project!" should appear in your terminal.
 
+[Click here](https://app.screencastify.com/v3/watch/Rke74KwH8UaNfNGZPPEt) for an example of how the application works!
+
 ## License
 
 The application is covered under [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).  
