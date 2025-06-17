@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a command-line application that dynamically generates a professional README.md file, based on the user's inputs. The application utilizes the inquirer package and node.js.
+This is a command-line application that dynamically generates a professional README.md file based on the user's inputs. The application utilizes the inquirer package and node.js.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Run the application locally by doing the following in your terminal:
 
 ## Usage
 
-Use this application to generate a professional README.md for your projects. You will need to input the following information:
+Use this application to generate a professional README.md for your projects. You will need to input the following information (when prompted):
 
 -   Project tilte
 -   Description
@@ -40,19 +40,19 @@ Use this application to generate a professional README.md for your projects. You
 -   GitHub username
 -   Email address
 
-To run the application, use the following command in your terminal:  
+To start the application, run the following command in your terminal:  
 `node index.js`
 
 ## Contributing
 
-This application was developed by Lauren Webert. Here are some guidelines on ways to contribute:
+This application was developed by Lauren Webert. All code is original and written by Lauren Webert.
 
+
+Here are some guidelines on ways to contribute:
 Report a bug fix.
-
 1. Create a new Issue in the GitHub repo.
 
 Make local changes to push up.
-
 1. Create a new branch (`git checkout -b <your-feature-branch-name>`)
 2. Make your changes locally
 3. Push the code back to the GitHub repo (`git push origin <your-feature-branch-name>`)
@@ -60,9 +60,9 @@ Make local changes to push up.
 
 ## Tests
 
-If the application is working correctly, the message "Successfully created professional README.md file for your project!" should appear in your terminal.
+If the application is working correctly, the user should be prompted to input information in the terminal necessary for the creation of the README.md file. Once all information is input, a README.md file should be generated and the message "Successfully created professional README.md file for your project!" should appear in your terminal.
 
-[Click here](https://app.screencastify.com/v3/watch/Rke74KwH8UaNfNGZPPEt) for an example of how the application works!
+[Click here](https://app.screencastify.com/v3/watch/Rke74KwH8UaNfNGZPPEt) for an walkthrough video of how the application works!
 
 ## License
 
